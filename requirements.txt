@@ -1,5 +1,5 @@
 certifi==2019.3.9
-cffi==1.12.3
+cffi
 Click==7.0
 Flask==1.0.3
 itsdangerous==1.1.0
